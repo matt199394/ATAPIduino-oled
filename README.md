@@ -7,5 +7,7 @@ I share olso the gerber file if someone would build one.
 Use the skech remoteControllTester.ino to find the keys code of your remote controll and then put it in the ATAPIduinoOled.ino code.
 Many thanks to Carlos Durandal the author of the original ATAPIduino project
 
+See ATAPIduino in action https://youtu.be/JT6ztLSfrjY
+
 
 ![top](https://github.com/user-attachments/assets/f41935bc-7b62-4221-9324-0c2e4b8445ec)
